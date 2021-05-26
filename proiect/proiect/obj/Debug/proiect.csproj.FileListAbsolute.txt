@@ -1,0 +1,14 @@
+D:\Facultate\An III\TAP\proiect\proiect\proiect\bin\Debug\proiect.exe.config
+D:\Facultate\An III\TAP\proiect\proiect\proiect\bin\Debug\proiect.exe
+D:\Facultate\An III\TAP\proiect\proiect\proiect\bin\Debug\proiect.pdb
+D:\Facultate\An III\TAP\proiect\proiect\proiect\obj\Debug\proiect.csprojAssemblyReference.cache
+D:\Facultate\An III\TAP\proiect\proiect\proiect\obj\Debug\proiect.Camere.resources
+D:\Facultate\An III\TAP\proiect\proiect\proiect\obj\Debug\proiect.Clienti.resources
+D:\Facultate\An III\TAP\proiect\proiect\proiect\obj\Debug\proiect.FStart.resources
+D:\Facultate\An III\TAP\proiect\proiect\proiect\obj\Debug\proiect.Properties.Resources.resources
+D:\Facultate\An III\TAP\proiect\proiect\proiect\obj\Debug\proiect.Rezervari.resources
+D:\Facultate\An III\TAP\proiect\proiect\proiect\obj\Debug\proiect.RezervariActualizare.resources
+D:\Facultate\An III\TAP\proiect\proiect\proiect\obj\Debug\proiect.csproj.GenerateResource.cache
+D:\Facultate\An III\TAP\proiect\proiect\proiect\obj\Debug\proiect.csproj.CoreCompileInputs.cache
+D:\Facultate\An III\TAP\proiect\proiect\proiect\obj\Debug\proiect.exe
+D:\Facultate\An III\TAP\proiect\proiect\proiect\obj\Debug\proiect.pdb

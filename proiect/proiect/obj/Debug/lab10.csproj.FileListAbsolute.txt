@@ -1,0 +1,42 @@
+C:\Users\PC\source\repos\lab10\lab10\bin\Debug\lab10.exe.config
+C:\Users\PC\source\repos\lab10\lab10\bin\Debug\lab10.exe
+C:\Users\PC\source\repos\lab10\lab10\bin\Debug\lab10.pdb
+C:\Users\PC\source\repos\lab10\lab10\obj\Debug\lab10.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\lab10\lab10\obj\Debug\lab10.Form1.resources
+C:\Users\PC\source\repos\lab10\lab10\obj\Debug\lab10.Properties.Resources.resources
+C:\Users\PC\source\repos\lab10\lab10\obj\Debug\lab10.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\lab10\lab10\obj\Debug\lab10.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\lab10\lab10\obj\Debug\lab10.exe
+C:\Users\PC\source\repos\lab10\lab10\obj\Debug\lab10.pdb
+C:\Users\PC\source\repos\lab10\lab10\obj\Debug\lab10.Form2.resources
+D:\Facultate\An III\TAP\proiect\lab10\lab10\bin\Debug\lab10.exe.config
+D:\Facultate\An III\TAP\proiect\lab10\lab10\bin\Debug\lab10.exe
+D:\Facultate\An III\TAP\proiect\lab10\lab10\bin\Debug\lab10.pdb
+D:\Facultate\An III\TAP\proiect\lab10\lab10\obj\Debug\lab10.csprojAssemblyReference.cache
+D:\Facultate\An III\TAP\proiect\lab10\lab10\obj\Debug\lab10.Properties.Resources.resources
+D:\Facultate\An III\TAP\proiect\lab10\lab10\obj\Debug\lab10.csproj.GenerateResource.cache
+D:\Facultate\An III\TAP\proiect\lab10\lab10\obj\Debug\lab10.csproj.CoreCompileInputs.cache
+D:\Facultate\An III\TAP\proiect\lab10\lab10\obj\Debug\lab10.exe
+D:\Facultate\An III\TAP\proiect\lab10\lab10\obj\Debug\lab10.pdb
+D:\Facultate\An III\TAP\proiect\lab10\lab10\obj\Debug\lab10.Clienti.resources
+D:\Facultate\An III\TAP\proiect\lab10\lab10\obj\Debug\lab10.Camere.resources
+D:\Facultate\An III\TAP\proiect\lab10\lab10\obj\Debug\lab10.Rezervari.resources
+D:\Facultate\An III\TAP\proiect\lab10\lab10\obj\Debug\lab10.FStart.resources
+D:\Facultate\An III\TAP\proiect\lab10\lab10\obj\Debug\lab10.RezervariActualizare.resources
+D:\Facultate\An III\TAP\proiect\BKproiect\lab10\lab10\bin\Debug\lab10.exe.config
+D:\Facultate\An III\TAP\proiect\BKproiect\lab10\lab10\bin\Debug\lab10.exe
+D:\Facultate\An III\TAP\proiect\BKproiect\lab10\lab10\bin\Debug\lab10.pdb
+D:\Facultate\An III\TAP\proiect\BKproiect\lab10\lab10\obj\Debug\lab10.csprojAssemblyReference.cache
+D:\Facultate\An III\TAP\proiect\BKproiect\lab10\lab10\obj\Debug\lab10.Camere.resources
+D:\Facultate\An III\TAP\proiect\BKproiect\lab10\lab10\obj\Debug\lab10.Clienti.resources
+D:\Facultate\An III\TAP\proiect\BKproiect\lab10\lab10\obj\Debug\lab10.F1.resources
+D:\Facultate\An III\TAP\proiect\BKproiect\lab10\lab10\obj\Debug\lab10.F2.resources
+D:\Facultate\An III\TAP\proiect\BKproiect\lab10\lab10\obj\Debug\lab10.FStart.resources
+D:\Facultate\An III\TAP\proiect\BKproiect\lab10\lab10\obj\Debug\lab10.Properties.Resources.resources
+D:\Facultate\An III\TAP\proiect\BKproiect\lab10\lab10\obj\Debug\lab10.RezervareNoua.resources
+D:\Facultate\An III\TAP\proiect\BKproiect\lab10\lab10\obj\Debug\lab10.Rezervari.resources
+D:\Facultate\An III\TAP\proiect\BKproiect\lab10\lab10\obj\Debug\lab10.RezervariActualizare.resources
+D:\Facultate\An III\TAP\proiect\BKproiect\lab10\lab10\obj\Debug\lab10.csproj.GenerateResource.cache
+D:\Facultate\An III\TAP\proiect\BKproiect\lab10\lab10\obj\Debug\lab10.csproj.CoreCompileInputs.cache
+D:\Facultate\An III\TAP\proiect\BKproiect\lab10\lab10\obj\Debug\lab10.exe
+D:\Facultate\An III\TAP\proiect\BKproiect\lab10\lab10\obj\Debug\lab10.pdb
